@@ -1,6 +1,6 @@
 # LocateAid v3 – Emergency Web Platform
 
-![LocateAid Logo](assets/logo.jpg)
+<img src="assets/logo.jpg" alt="LocateAid Logo" width="60" />
 
 **Status:** 🚀 Almost Complete
 
@@ -31,4 +31,3 @@ LocateAid v3 is a **modern, responsive web platform for emergencies**, built upo
 - Enhanced AI for more **accurate emergency assistance**.
 - Optimized **loading speed** and overall performance.
 - Refined **user interface** for easy navigation and usability.
-
