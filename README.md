@@ -4,6 +4,8 @@
 
 **Status:** 🚀 Almost Complete
 
+>> WILL BE UPLOADED ON 17-10-2025 ✅
+
 LocateAid v3 is a **modern, responsive web platform for emergencies**, built upon the old LocateAid. It is **optimized for both mobile and desktop** and designed to provide quick access to critical information during emergencies.
 
 ---
