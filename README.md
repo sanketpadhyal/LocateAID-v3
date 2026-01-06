@@ -4,8 +4,7 @@
 
 **Status:** 🚀 Almost Complete
 
->> WILL BE GET DELAYED ✅ ( delayed because of startup project )
->>  WORK HAS BEEN STARTED ...
+>> WORKING ON THIS WEB VERSION RIGHT NOW CODNG FROM TRASH CHANGED LANGUAGE FROM HTML TO REACT AND NEW THEME FEATURES.
 
 LocateAid v3 is a **modern, responsive web platform for emergencies**, built upon the old LocateAid. It is **optimized for both mobile and desktop** and designed to provide quick access to critical information during emergencies.
 
