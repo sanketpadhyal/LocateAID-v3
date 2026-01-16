@@ -4,7 +4,7 @@
 
 **Status:** 🚀 Almost Complete
 
->> EVERYTHING WORKING, RIGHT NOW WE ARE WORKING ON BLOOD DONATION AND AUTH SYSTEM.
+>> EVERYTHING WORKING, RIGHT NOW WE ARE WORKING ON BLOOD DONATION AND VERIFICATION SYSTEM.
 
 LocateAid v3 is a **modern, responsive web platform for emergencies**, built upon the old LocateAid. It is **optimized for both mobile and desktop** and designed to provide quick access to critical information during emergencies.
 
