@@ -3,7 +3,7 @@
 <img src="logo.png" alt="LocateAid Logo" width="70" />
 
 **Project Status:** 🚀 *Almost Complete*  
-> **Current Focus:** Blood Donation & Database for profile page
+> **Current Focus:** Database for PROFILE PAGE then i will work on verification for PROFILE PAGE and will be completed in 2 days as it is lengthy.
 
 ---
 
