@@ -1,6 +1,6 @@
 # LocateAid v3 – Emergency Web Platform
 
-<img src="assets/logo.jpg" alt="LocateAid Logo" width="60" />
+<img src="logo.jpg" alt="LocateAid Logo" width="60" />
 
 **Status:** 🚀 Almost Complete
 
