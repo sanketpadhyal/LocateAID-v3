@@ -3,7 +3,7 @@
 <img src="logo.png" alt="LocateAid Logo" width="70" />
 
 **Project Status:** 🚀 *Almost Complete*  
-> **Current Focus:** Blood Donation & User Verification System
+> **Current Focus:** Blood Donation & Database for profile page
 
 ---
 
