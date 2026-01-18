@@ -5,6 +5,7 @@
 **Project Status:** 🚀 *Almost Complete*  
 > **Current Focus:** Database for PROFILE PAGE then i will work on verification for PROFILE PAGE and will be completed in 2 days as it is lengthy.
 
+Note: You can use web all servers are up to date and working 24x7.
 ---
 
 ## 🆘 About LocateAid v3
