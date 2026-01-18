@@ -12,6 +12,9 @@ LocateAid v3 is a **modern, responsive web platform for emergencies**, built upo
 
 ## 🌟 Key Features
 
+- **New Logo For Web**
+  Got New Logo For Web. 
+
 - **Enhanced AI Assistance**  
   Smarter AI to answer queries quickly and accurately.
 
