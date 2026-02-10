@@ -61,6 +61,11 @@ Login powered by **Google Authentication**, ensuring:
 
 ---
 
+### 📅 Project Information
+Created: Oct 8, 2025
+
+---
+
 ## 🎯 Goal
 
 LocateAid v3 aims to become a **reliable digital companion during emergencies**, connecting people, resources, and assistance through a fast, secure, and user-friendly platform.
